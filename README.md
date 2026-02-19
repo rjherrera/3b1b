@@ -4,4 +4,4 @@ Fun problems and puzzles available in the [3B1B site](https://www.3blue1brown.co
 
 |Organization|Puzzle|
 |-|-|
-|[0xParc](OxPARC)|[FHE/Lattice](0xPARC/puzzle.py)|
+|[0xParc](0xPARC)|[FHE/Lattice](0xPARC/puzzle.py)|
